@@ -17,14 +17,14 @@ Light cooperative-style puzzles: fixing glitches, restoring modules
 
 Short, replayable experience with multiple endings
 
-How to play
+How to play:
 Click “Run game” in the browser
 
 Use WASD and RMB to move and interact
 
 One playthrough takes about 3–4 minutes
 
-Built for Campfire
+(Built for Campfire)
 Last Instance was created for Hack Club’s Campfire game jam, a global teen-led event focused on making small, experimental games together.
 
 CREDITS
