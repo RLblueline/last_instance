@@ -1,4 +1,4 @@
-Last Instance
+
 Last Instance is a short 2D narrative platformer set inside a recovered software build. You play as a reviewer evaluating an abandoned prototype and deciding whether to archive it or delete it.
 
 What is it?
